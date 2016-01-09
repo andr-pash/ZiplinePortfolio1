@@ -1,11 +1,11 @@
 #home {
-    background: url(/Bilder/6928013157_2f1054eb54_o.jpg) center center fixed no-repeat;
+    background: url(/images/6928013157_2f1054eb54_o.jpg) center center fixed no-repeat;
     background-size: cover;
     height: 100%;
 }
 
 #me{
-    background: url(/Bilder/6928013157_2f1054eb54_o.jpg) center center fixed no-repeat;
+    background: url(/images/6928013157_2f1054eb54_o.jpg) center center fixed no-repeat;
     background-size: cover;
     min-height: 110%;
 }
@@ -23,13 +23,13 @@
 }
 
 #portfolio{
-    background: url(/Bilder/piano.jpg) center center fixed no-repeat;
+    background: url(/images/piano.jpg) center center fixed no-repeat;
     background-size: cover;
     min-height: 110%;
 }
 
 #contact{
-    background: url(/Bilder/wave.jpg) center center fixed no-repeat;
+    background: url(/images/wave.jpg) center center fixed no-repeat;
     background-size: cover;
     height: 100%;
 }
@@ -145,7 +145,7 @@ h1 {
 }
 
 .portfolioitem {
-    background: url(/Bilder/placeholder1.png) center center;
+    background: url(/images/placeholder1.png) center center;
     background-size: cover;
     border-radius: 5px;
     box-shadow: inset 0px 0px 10px #000;
